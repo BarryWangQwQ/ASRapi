@@ -4,10 +4,10 @@ Quick start.
 
 Step 1: In the project root directory execute
 "pip install -r requirements.txt"
-to install the dependencies
+to install the dependencies.
 
 Step 2: In the project root directory, edit
-"example.py"
+"example.py" and
 Modify the third code: ASR's sound file recognition path (sound files are only supported for WAV)
 
 Step 3: In the project root directory, execute
