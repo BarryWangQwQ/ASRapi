@@ -1,3 +1,6 @@
+一个基于深度学习的离线语音识别API （中文）
+A speech recognition API based on deep learning. （Chinese Simplified）
+
 English:
 
 Quick start.
